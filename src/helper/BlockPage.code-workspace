@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../BlockPage"
+		},
+		{
+			"path": "../../../../../Learning Source/ReactThemes/react-template/url-shorten"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BlockPage"
+	}
+}
